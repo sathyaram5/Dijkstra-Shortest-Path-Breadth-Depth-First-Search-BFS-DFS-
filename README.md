@@ -1,7 +1,7 @@
 # Dijkstra-Shortest-Path-Breadth-Depth-First-Search-BFS-DFS-
 
 
-echniques:
+Techniques:
 •	Dijkstra Shortest Path technique
 Given a graph and a source vertex in the graph, it finds the shortest paths from source to all vertices in the given graph.
 There are two sets, one set contains vertices included in shortest path tree, other set includes vertices not yet included in 
